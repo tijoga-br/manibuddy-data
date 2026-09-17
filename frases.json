@@ -1,85 +1,44 @@
 {
-  "versao": "1.1",
   "frases": [
-    {
-      "id": 1,
-      "categoria": "bom_dia",
-      "emocao": "happy",
-      "animacao": "happy",
-      "prioridade": 1,
-      "texto": "Que seu dia comece leve e termine com um sorriso."
-    },
-    {
-      "id": 2,
-      "categoria": "bom_dia",
-      "emocao": "excited",
-      "animacao": "excited",
-      "prioridade": 1,
-      "texto": "Bom dia! Hoje pode ser um dia incrível."
-    },
-    {
-      "id": 3,
-      "categoria": "motivacao",
-      "emocao": "excited",
-      "animacao": "excited",
-      "prioridade": 2,
-      "texto": "Pequenos passos também levam a grandes destinos."
-    },
-    {
-      "id": 4,
-      "categoria": "motivacao",
-      "emocao": "happy",
-      "animacao": "happy",
-      "prioridade": 1,
-      "texto": "Continue. Você já chegou mais longe do que imagina."
-    },
-    {
-      "id": 5,
-      "categoria": "carinho",
-      "emocao": "love",
-      "animacao": "love",
-      "prioridade": 1,
-      "texto": "Um pouco de carinho pode transformar um dia inteiro."
-    },
-    {
-      "id": 6,
-      "categoria": "humor",
-      "emocao": "happy",
-      "animacao": "happy",
-      "prioridade": 1,
-      "texto": "Se o café não resolveu, talvez seja hora de um tacacá."
-    },
-    {
-      "id": 7,
-      "categoria": "boa_noite",
-      "emocao": "sleepy",
-      "animacao": "sleep",
-      "prioridade": 1,
-      "texto": "Descanse. Amanhã é uma nova oportunidade."
-    },
-    {
-      "id": 8,
-      "categoria": "fim_de_semana",
-      "emocao": "excited",
-      "animacao": "excited",
-      "prioridade": 1,
-      "texto": "Fim de semana chegando. Hora de respirar e aproveitar."
-    },
-    {
-      "id": 9,
-      "categoria": "motociclismo",
-      "emocao": "excited",
-      "animacao": "excited",
-      "prioridade": 2,
-      "texto": "Estrada, liberdade e bons amigos. Que venha o próximo destino!"
-    },
-    {
-      "id": 10,
-      "categoria": "amazonia",
-      "emocao": "happy",
-      "animacao": "happy",
-      "prioridade": 2,
-      "texto": "Entre rios, floresta e chuva, a Amazônia sempre surpreende."
-    }
+    "Que seu dia comece leve e termine com um sorriso.",
+    "Bom dia! Hoje pode ser um dia incrivel.",
+    "Pequenos passos tambem levam a grandes destinos.",
+    "Continue. Voce ja chegou mais longe do que imagina.",
+    "Um pouco de carinho pode transformar um dia inteiro.",
+    "Se o cafe nao resolveu, talvez seja hora de um tacaca.",
+    "Descanse. Amanha e uma nova oportunidade.",
+    "Fim de semana chegando. Hora de respirar e aproveitar.",
+    "Estrada, liberdade e bons amigos. Que venha o proximo destino!",
+    "Entre rios, floresta e chuva, a Amazonia sempre surpreende.",
+    "Uma xícara de café quente e a mente pronta para criar.",
+    "Sorria! O ManiBuddy está aqui para te fazer companhia.",
+    "Se nada der certo de primeira, tente um novo refatoramento.",
+    "As melhores ideias surgem nos momentos de pausa.",
+    "Que o vento da estrada leve todas as preocupações.",
+    "Nada como aquela chuva da tarde em Belém para renovar as energias.",
+    "O segredo do sucesso é a constância nos pequenos detalhes.",
+    "Um código limpo e uma mente tranquila mudam o dia.",
+    "Aproveite a jornada, não apenas a linha de chegada.",
+    "Respire fundo. Você está fazendo o seu melhor.",
+    "Hoje é um bom dia para aprender algo totalmente novo.",
+    "A vida fica melhor com uma boa conversa e um café.",
+    "Acredite no processo, cada esforço valerá a pena.",
+    "O destino é importante, mas a viagem é o que fica.",
+    "Sua energia contagia o ambiente. Espalhe coisas boas!",
+    "Se a rotina pesar, lembre-se do motivo pelo qual começou.",
+    "Nada supera a sensação de dever cumprido ao fim do dia.",
+    "Que a paciência e a sabedoria guiem suas escolhas hoje.",
+    "A simplicidade guarda as maiores alegrias da vida.",
+    "Dois pneus no asfalto e o coração cheio de liberdade.",
+    "Um dia produtivo começa com um pensamento positivo.",
+    "Faça do seu presente o melhor lugar para se estar.",
+    "Cultive bons momentos, eles se tornam memórias incríveis.",
+    "Seja a versão que você gostaria de encontrar por aí.",
+    "Tudo no seu tempo. Mantenha o foco e a calma.",
+    "A felicidade está nos detalhes que a gente quase não nota.",
+    "Que a sua única pressa hoje seja a de ser feliz.",
+    "Com calma e persistência, qualquer meta fica mais perto.",
+    "Mais um dia para construir a sua melhor história.",
+    "Desconecte um pouco das telas e conecte-se com o mundo."
   ]
 }
